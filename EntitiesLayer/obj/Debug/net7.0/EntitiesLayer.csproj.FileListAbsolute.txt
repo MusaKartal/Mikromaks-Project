@@ -1,0 +1,12 @@
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\bin\Debug\net7.0\EntitiesLayer.deps.json
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\bin\Debug\net7.0\EntitiesLayer.dll
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\bin\Debug\net7.0\EntitiesLayer.pdb
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\EntitiesLayer.csproj.AssemblyReference.cache
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\EntitiesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\EntitiesLayer.AssemblyInfoInputs.cache
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\EntitiesLayer.AssemblyInfo.cs
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\EntitiesLayer.dll
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\refint\EntitiesLayer.dll
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\EntitiesLayer.pdb
+C:\Users\Musa\Documents\Musa Vs-Projects\MikromaksProject\EntitiesLayer\obj\Debug\net7.0\ref\EntitiesLayer.dll
